@@ -1,5 +1,11 @@
 ## **Traffic Sign Classification using CNN**
 
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/)  
+[![Keras](https://img.shields.io/badge/Keras-2.12-red.svg)](https://keras.io/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![Platform](https://img.shields.io/badge/Platform-Google%20Colab-lightgrey.svg)](https://colab.research.google.com/)
+
 ### 🚦 **Overview**
 This project implements a Convolutional Neural Network (CNN) to classify traffic signs using the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The model processes images, identifies patterns, and predicts the correct traffic sign class among 43 categories. It achieves high accuracy through rigorous training, optimization, and validation.
 
